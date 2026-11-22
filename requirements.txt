@@ -1,0 +1,8 @@
+# Pinha 3D — 3MF Processor
+# Apenas biblioteca padrão Python 3.8+ — nenhuma dependência externa obrigatória.
+#
+# Opcional: lxml para parsing XML mais robusto (pode substituir xml.etree.ElementTree)
+# lxml>=4.9.0
+#
+# Opcional: colorama para saída colorida no Windows
+# colorama>=0.4.6

@@ -1,0 +1,13 @@
+# Segredos — nunca commitar
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arquivos de teste
+*.3mf
